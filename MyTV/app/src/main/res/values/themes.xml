@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.MyTV" parent="Theme.Leanback">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:colorAccent">#FF9800</item>
+    </style>
+</resources>
